@@ -1,0 +1,21 @@
+#navbar{
+    display:flex;
+    align-items: center;
+}
+
+header{
+    background-color: rgba(26, 25, 34, 0.958);}
+
+
+
+h1{
+    color: antiquewhite;
+}
+
+header p{
+    color: antiquewhite;
+}
+
+header p a{
+    color:rgba(227, 245, 232, 0.993);
+}
